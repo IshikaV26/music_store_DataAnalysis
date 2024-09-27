@@ -6,6 +6,12 @@ This project aims to analyze a music store database using SQL to extract valuabl
 ### Data Analysis Methodology
 SQL queries were used to extract and analyze the data from the music store database. The queries were designed to answer the specific questions posed.
 
+### Data Source
+The project relies on the data from Music_store_database.sql database file.
+
+### Tools
+SQL- PostgreSQL
+
 ### Data Analysis Questions
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
